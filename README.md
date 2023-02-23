@@ -82,7 +82,7 @@ my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to 
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo">https://unleashedicon.github.io/capstone-project1/</a>
+## 🚀 Live Demo <a name="live-demo">https://unleashedicon.github.io/awesome-books/</a>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
