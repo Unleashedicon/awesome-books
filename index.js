@@ -1,4 +1,5 @@
-import BookList from "./modules/booklist.js";
+import BookList from './modules/booklist.js';
+
 const bookList = new BookList();
 
 bookList.displayBooks();
