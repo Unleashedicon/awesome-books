@@ -14,10 +14,9 @@ class BookList {
   }
 
   addBook(title, author) {
-    console.log(`adding book`)
     addBook(this.books, title, author);
     this.save();
-    this.displayBooks()
+    this.displayBooks();
   }
 
   removeBook(title) {
@@ -27,7 +26,6 @@ class BookList {
   }
 
   displayBooks() {
-    console.log('this are books')
     displayBooks(this.books);
   }
 }

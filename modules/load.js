@@ -3,8 +3,6 @@ const books = [
   { title: 'The Great Gatsby', author: 'F. Scott Fitzgerald' },
   { title: 'To Kill a Mockingbird', author: 'Harper Lee' },
   { title: 'The Lord of the Rings', author: 'J.R.R. Tolkien' },
-]
-const load = () => {
-    return JSON.parse(localStorage.getItem('books')) || books;
-  }
+];
+const load = () => JSON.parse(localStorage.getItem('books')) || books;
 export default load;
