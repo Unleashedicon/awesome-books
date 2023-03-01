@@ -83,14 +83,15 @@ my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to 
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
+## 💻 Installation and setup <a name="getting-started"></a>
 
 
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+<p>In order to run this project you need:
+  <br> install node.js <p>
 <!--
 Example command:
 
@@ -101,7 +102,7 @@ Example command:
 
 ### Setup
 
-Clone this repository to your desired folder:
+<p>Clone this repository to your desired folder: <br>git clone https://github.com/Unleashedicon/awesome-books.git<p>
 
 <!--
 Example commands:
@@ -114,7 +115,7 @@ Example commands:
 
 ### Install
 
-Install this project with:
+<p>Install this project with: <br> npm install<p>
 
 <!--
 Example command:
@@ -127,7 +128,7 @@ Example command:
 
 ### Usage
 
-To run the project, execute the following command:
+<p>To run the project, execute the following command:<br> npm start<p>
 
 <!--
 Example command:
@@ -139,7 +140,7 @@ Example command:
 
 ### Run tests
 
-To run tests, run the following command:
+<p>To run tests, run the following command: <br> npm test<p>
 
 <!--
 Example command:
@@ -151,7 +152,7 @@ Example command:
 
 ### Deployment
 
-You can deploy this project using:
+<p>You can deploy this project using: <br>npm build<p>
 
 <!--
 Example:
@@ -181,7 +182,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+- [ ] **Technologies - For my project, I utilized HTML, CSS, and JavaScript, with a focus on the ES6 syntax for enhanced functionality. Additionally, I utilized the Luxon library for time-related operations and manipulations.**
 - [ ] **Responsive Design: As more and more users are accessing the web on mobile devices, it's important to ensure that your website looks and works well on all screen sizes. This feature would allow the website to adapt to the screen size of the device it's being viewed on.**
 - [ ] **Accessibility: This feature would make the website easy to navigate and use for users with disabilities. This can include things like providing alternative text for images, using semantic HTML tags, and ensuring that the website's contrast ratio is high enough to be easily read by users with low vision.**
 - [ ] **CSS preprocessors: CSS preprocessors such as Sass or Less will allow you to use variables, nested selectors, mixins and many other features that can make your CSS code more maintainable and organized. This can help you to write cleaner and more modular CSS code, making it easier to update and maintain.**
