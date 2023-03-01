@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  padding: 5px 20px;
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+main section {
+  display: none;
+}
+
+section:target {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#datetime {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 550;
+}
+
+#book-list {
+  width: 97%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  padding: 19px;
+  flex-direction: column;
+  list-style: none;
+}
+
+#book-list li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  padding: 10px;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 650;
+}
+
+#book-list li button {
+  height: 30px;
+  width: 120px;
+}
+
+#Contact h3 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 40px;
+}
+
+#Contact p {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 20px;
+}
+
+#Contact ul {
+  align-items: center;
+  text-align: left;
+  flex-direction: column;
+  display: flex;
+  font-size: 20px;
+}
+
+#Contact li {
+  font-size: 20px;
+  text-align: left;
+  width: 400px;
+}
+
+#nav-bar {
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid black;
+  padding: 0 10px 0 10px;
+  height: 40px;
+  margin-right: 40px;
+}
+
+#nav-bar ul {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding-right: 30px;
+}
+
+#nav-bar ul li {
+  list-style: none;
+  border-right: 1px solid black;
+  height: 30px;
+  padding-right: 4px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#nav-bar ul li a {
+  text-decoration: none;
+  color: black;
+  font-weight: 600;
+}
+
+#nav-bar ul li a:hover {
+  color: blue;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+#List h3 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 40px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  width: 300px;
+}
+
+.add-btn {
+  width: 70px;
+  align-self: flex-end;
+}
+
+.form-input {
+  display: flex;
+  flex-direction: column;
+  width: 308px;
+}
+
+#add-new h3 {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  font-size: 40px;
+}
+
+.copyright {
+  position: absolute;
+  bottom: 10px;
+  border: 2px solid black;
+  width: 98%;
+  display: flex;
+  padding-left: 20px;
+  font-size: 24px;
+  font-weight: 600;
+}
