@@ -4,14 +4,24 @@ body {
 }
 
 section {
-  width: 100%;
   display: flex;
-  gap: 70px;
-  justify-content: center;
+  flex-direction: column;
 }
 
 main section {
   display: none;
+}
+
+section:target {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#datetime {
+  display: flex;
+  justify-content: flex-end;
+  font-weight: 550;
 }
 
 #book-list {

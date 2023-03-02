@@ -1,0 +1,23 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "styles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unleashedicon/awesome-books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Unleashedicon/awesome-books/issues"
+  },
+  "homepage": "https://github.com/Unleashedicon/awesome-books#readme",
+  "dependencies": {
+    "luxon": "^3.2.1"
+  }
+}
