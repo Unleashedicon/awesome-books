@@ -19,11 +19,11 @@ class BookList {
     this.displayBooks();
   }
 
-  removeBook(title) {
-    this.books = removeBook(this.books, title);
+  removeBook(book) {
+    this.books = removeBook(this.books, book);
     this.save();
     this.displayBooks();
-  }
+  }  
 
   displayBooks() {
     displayBooks(this.books);

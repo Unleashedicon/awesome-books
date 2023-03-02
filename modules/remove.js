@@ -1,2 +1,6 @@
-const removeBook = (books, title) => books.filter((book) => book.title !== title);
-export default removeBook;
+const removeBook = (books, bookToRemove) => {
+    return books.filter((book) => book !== bookToRemove);
+  };
+  
+  export default removeBook;
+  
