@@ -12,6 +12,8 @@ addBtn.addEventListener('click', (event) => {
   const author = authorinput.value;
   bookList.addBook(title, author);
   event.preventDefault();
+  titleinput.value = '';
+  authorinput.value = '';
 });
 
 const bookListElement = document.getElementById('book-list');
@@ -20,7 +22,7 @@ bookListElement.addEventListener('click', (event) => {
   if (removeBtn) {
     const index = removeBtn.getAttribute('data-index');
     const book = bookList.books[index];
-    bookList.removeBook(book.title);
+    bookList.removeBook(book);
     bookList.displayBooks();
   }
 });
@@ -38,3 +40,9 @@ links.forEach((link) => {
     targetsection.style.display = 'block';
   });
 });
+
+window.addEventListener('load', () => {
+  window.location.hash = '#List';
+});
+
+
