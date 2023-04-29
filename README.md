@@ -53,7 +53,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 personal-portfolio <a name="about-project"></a>
+# 📖 Awesome Books <a name="about-project"></a>
 
 
 my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to master all of the tools and best practices learnt. 
@@ -61,6 +61,11 @@ my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+-HTML
+
+-CSS
+
+-Javascript
 
 
 <!-- Features -->
@@ -68,9 +73,11 @@ my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to 
 ### Key Features <a name="key-features"></a>
 
 
-- **It is a project that keeps a collection of books with a function that allows adding and removing of books**
-- **Implementing best practices for file structure, naming conventions, and commenting, to ensure code readability and maintainability**
-- **Familiarizing with the tools and workflow that will be used in future projects, so that you can work more efficiently and effectively.**
+-Collection of books: The project revolves around a collection of books, which is managed using JavaScript. You can add new books to the collection and remove existing ones as well. This feature is essential to the project's functionality and serves as the main focus of the application.
+
+-Best practices for code structure: The project emphasizes the importance of code structure, naming conventions, and commenting to ensure code readability and maintainability. Following these best practices will help you write clean, organized, and easy-to-understand code that is easy to maintain and scale.
+
+-Tools and workflow: The project also familiarizes you with the tools and workflow that will be used in future projects. This exposure to modern development practices will help you work more efficiently and effectively, and you will become more comfortable with the development process overall.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
