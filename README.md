@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Awesome Books <a name="about-project"></a>
 
 
-my project is a simple HTML CSS and JAVASCRIPT page whose primary goal is is to master all of the tools and best practices learnt. 
+Awesome Books is a project that focuses on helping the developer master the tools and best practices they have learned in HTML, CSS, and JavaScript. The primary goal is to provide a simple webpage that demonstrates the ability to manage a collection of books with the function to add and remove books. The project emphasizes implementing best practices for file structure, naming conventions, and commenting to ensure code readability and maintainability. By working on this project, the developer will familiarize themselves with the tools and workflow that will be used in future projects, allowing them to work more efficiently and effectively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -189,10 +189,11 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Technologies - For my project, I utilized HTML, CSS, and JavaScript, with a focus on the ES6 syntax for enhanced functionality. Additionally, I utilized the Luxon library for time-related operations and manipulations.**
-- [ ] **Responsive Design: As more and more users are accessing the web on mobile devices, it's important to ensure that your website looks and works well on all screen sizes. This feature would allow the website to adapt to the screen size of the device it's being viewed on.**
-- [ ] **Accessibility: This feature would make the website easy to navigate and use for users with disabilities. This can include things like providing alternative text for images, using semantic HTML tags, and ensuring that the website's contrast ratio is high enough to be easily read by users with low vision.**
-- [ ] **CSS preprocessors: CSS preprocessors such as Sass or Less will allow you to use variables, nested selectors, mixins and many other features that can make your CSS code more maintainable and organized. This can help you to write cleaner and more modular CSS code, making it easier to update and maintain.**
+- [ ] **Integration with an API: Integrating an API would allow the "Awesome Books" website to display a wider range of books with more accurate information, such as book descriptions, author information, and book covers. This would make the website more informative and visually appealing to users.**
+- [ ] **User Authentication: Adding user authentication would allow users to create accounts and save their book collections. This would give users a more personalized experience, as they could access their saved collections from any device and also share their collections with others.**
+- [ ] **Search Functionality: Implementing a search functionality would allow users to search for specific books based on author, title, or genre. This would save users time and make it easier to find books that match their interests.**
+- [ ] **Social Media Integration: Integrating social media buttons such as Facebook and Twitter would allow users to share books they like with their social networks, increasing the reach and popularity of the website.**
+- [ ] **Advanced Styling: Enhancing the website's styling with advanced techniques such as animations, custom fonts, and more advanced CSS features would make the website more visually appealing and engaging for users.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
