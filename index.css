@@ -25,7 +25,7 @@ section:target {
 }
 
 #book-list {
-  width: 96%;
+  width: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
