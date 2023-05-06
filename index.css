@@ -21,7 +21,7 @@ section:target {
 #datetime {
   display: flex;
   justify-content: flex-end;
-  font-weight: 550;
+  font-weight: 549;
 }
 
 #book-list {
