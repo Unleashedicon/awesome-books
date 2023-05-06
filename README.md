@@ -56,7 +56,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 Awesome Books <a name="about-project"></a>
 
 
-Awesome Books is a project that focuses on helping the developer master the tools and best practices they have learned in HTML, CSS, and JavaScript. The primary goal is to provide a simple webpage that demonstrates the ability to manage a collection of books with the function to add and remove books. The project emphasizes implementing best practices for file structure, naming conventions, and commenting to ensure code readability and maintainability. By working on this project, the developer will familiarize themselves with the tools and workflow that will be used in future projects, allowing them to work more efficiently and effectively.
+Awesome Books is a project which focuses on helping the developer master the tools and best practices they have learned in HTML, CSS, and JavaScript. The primary goal is to provide a simple webpage that demonstrates the ability to manage a collection of books with the function to add and remove books. The project emphasizes implementing best practices for file structure, naming conventions, and commenting to ensure code readability and maintainability. By working on this project, the developer will familiarize themselves with the tools and workflow that will be used in future projects, allowing them to work more efficiently and effectively.
 
 ## 🛠 Built With <a name="built-with"></a>
 
